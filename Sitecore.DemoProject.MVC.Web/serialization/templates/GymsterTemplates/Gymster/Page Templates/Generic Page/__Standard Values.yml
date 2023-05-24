@@ -1,0 +1,33 @@
+﻿---
+ID: "9184bf71-87b8-4a49-93c3-c78eb6d0fcc0"
+Parent: "e28a1892-f628-4dcf-aced-6b2b56fe4f1e"
+Template: "e28a1892-f628-4dcf-aced-6b2b56fe4f1e"
+Path: /sitecore/templates/Gymster/Page Templates/Generic Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{8ED86F91-DBA7-47E5-869B-DF5F05C0F49D}">
+        <r
+          id="{6AC6DA33-A758-47EE-B803-0DD0CE851E9A}"
+          ph="header-nav"
+          uid="{B0965988-4E93-4A14-9CB5-57A832DD9AF4}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230502T133843Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

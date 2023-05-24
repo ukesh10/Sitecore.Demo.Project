@@ -1,0 +1,22 @@
+﻿---
+ID: "dad7d2f8-1b7a-482d-8491-b51f397fbfec"
+Parent: "7b31ff9d-4910-443b-8261-569497207825"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Gymster/Carousel
+DB: master
+SharedFields:
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.DemoProject.MVC.Web.Controllers.CarouselController,Sitecore.DemoProject.MVC.Web
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230502T051307Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

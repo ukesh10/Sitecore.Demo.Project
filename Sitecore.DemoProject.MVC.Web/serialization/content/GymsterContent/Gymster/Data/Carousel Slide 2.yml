@@ -1,0 +1,32 @@
+﻿---
+ID: "d11044da-b7dc-4cd5-8b50-c3c904fb9551"
+Parent: "58738ab9-9754-4b91-bc01-7f36fbd5e54f"
+Template: "324b4131-c845-486b-a62b-bfe65d62b017"
+Path: /sitecore/content/Gymster/Data/Carousel Slide 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "012e8717-6e73-467c-b31a-d964a983a5de"
+      Hint: Primary Link
+      Value: |
+        <link text="JOIN US" anchor="" linktype="internal" class="" title=""  querystring="" id="{CA655637-227E-4573-B00D-D26963CC363E}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230502T050700Z
+    - ID: "40323f1b-cc31-4fde-bb15-3d4a279182c9"
+      Hint: Title
+      Value: Best Gym Center
+    - ID: "5e8c27df-2ea4-4653-885a-59ee1114c4d3"
+      Hint: Subtitle
+      Value: GROW YOUR STRENGTH WITH OUR TRAINERS
+    - ID: "6d712c72-15d6-4cb1-ac4c-18210d65dad3"
+      Hint: Secondary Link
+      Value: |
+        <link text="CONTACT US" anchor="" linktype="internal" class="" title=""  querystring="" id="{CA655637-227E-4573-B00D-D26963CC363E}" />
+    - ID: "8351a9df-6d81-4614-a4b3-d30b5e900887"
+      Hint: Image
+      Value: |
+        <image mediaid="{E37DD389-F2AE-457F-8276-1D9BFF86A9F0}" />

@@ -1,0 +1,21 @@
+﻿---
+ID: "ca655637-227e-4573-b00d-d26963cc363e"
+Parent: "c4692dee-5d73-4a34-9a78-87c653d8df15"
+Template: "95fb6ca9-0695-4fa2-910c-2f002b0cb5a7"
+Path: /sitecore/content/Gymster/Home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T050557Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f22370fd-63f8-471f-beed-d0195fec2991"
+      Hint: Navigation Title
+      Value: Home

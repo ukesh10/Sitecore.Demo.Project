@@ -1,0 +1,39 @@
+﻿---
+ID: "773f6bbb-5d04-4e6b-8d39-2c6a529eadc6"
+Parent: "ca655637-227e-4573-b00d-d26963cc363e"
+Template: "e28a1892-f628-4dcf-aced-6b2b56fe4f1e"
+Path: /sitecore/content/Gymster/Home/About
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0DF68F57-17B7-4F6B-B5BE-0FC28D0A6D7B}"
+          p:after="*[1=2]"
+          s:ds="{349FB8B9-C40E-496B-BEC6-81A5AF7203E1}"
+          s:id="{63385AC9-036F-4066-BA15-E44E1BFBD74B}"
+          s:par=""
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230502T134244Z
+    - ID: "f22370fd-63f8-471f-beed-d0195fec2991"
+      Hint: Navigation Title
+      Value: About

@@ -1,0 +1,30 @@
+﻿---
+ID: "24869e84-4716-419e-8855-c88e1135cff5"
+Parent: "ca655637-227e-4573-b00d-d26963cc363e"
+Template: "e28a1892-f628-4dcf-aced-6b2b56fe4f1e"
+Path: /sitecore/content/Gymster/Home/Books Search
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8959B16C-D489-4FC3-9FA3-941C9EC8A2D2}"
+          p:after="*[1=2]"
+          s:id="{37C93B71-1499-41B4-90AD-DC9E1073D6A3}"
+          s:ph="main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230516T073209Z

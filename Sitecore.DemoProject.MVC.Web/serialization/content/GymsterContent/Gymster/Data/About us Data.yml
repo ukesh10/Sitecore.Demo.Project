@@ -1,0 +1,35 @@
+﻿---
+ID: "f6011607-5490-469a-b80c-9c4613410c9e"
+Parent: "58738ab9-9754-4b91-bc01-7f36fbd5e54f"
+Template: "f018fd99-472e-4c7f-b6eb-81db54c0fa32"
+Path: /sitecore/content/Gymster/Data/About us Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17607b28-8cc0-4079-ba2e-29c6d625f927"
+      Hint: About Image
+      Value: |
+        <image mediaid="{8A777F56-4D45-4E36-BDA3-7F15EEB00644}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T054800Z
+    - ID: "365d5c1a-4a79-419d-9797-962644a806b8"
+      Hint: Summary
+      Value: Diam dolor diam ipsum tempor sit. Clita erat ipsum et lorem stet no labore lorem sit clita duo justo magna dolore
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "85b90ee7-73b4-4f75-af95-ad99e8712b00"
+      Hint: SubTitle
+      Value: WELCOME TO GYMSTER
+    - ID: "88db398c-db7d-412e-b2eb-84f62a6e5930"
+      Hint: Title
+      Value: About Us 
+    - ID: "b2d21e4e-e371-40ea-8c47-041beb7dca20"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #686a6f;"><a href="~/link.aspx?_id=C97C148BB1184C4AB05612E872FF091F&amp;_z=z">Outliers</a> Nonumy erat diam duo labore clita. Sit magna ipsum dolor sed ea duo at ut. Tempor sit lorem sit magna ipsum duo. Sit eos dolor ut sea rebum, diam sea rebum lorem kasd ut ipsum dolor est ipsum. Et stet amet justo amet clita erat, ipsum sed at ipsum eirmod labore lorem.</span>

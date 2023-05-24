@@ -1,0 +1,47 @@
+﻿---
+ID: "a89aedb5-932b-45be-9254-6f9560047b10"
+Parent: "95fb6ca9-0695-4fa2-910c-2f002b0cb5a7"
+Template: "95fb6ca9-0695-4fa2-910c-2f002b0cb5a7"
+Path: /sitecore/templates/Gymster/Page Templates/Home/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{8ED86F91-DBA7-47E5-869B-DF5F05C0F49D}">
+        <r
+          id="{6AC6DA33-A758-47EE-B803-0DD0CE851E9A}"
+          ph="header-nav"
+          uid="{48B1BBF1-F6AF-4FC2-BB69-D25B540F9794}" />
+        <r
+          ds="{032351FA-C693-41BD-9968-BFB0DE0C3472}"
+          id="{DAD7D2F8-1B7A-482D-8491-B51F397FBFEC}"
+          par=""
+          ph="main"
+          uid="{9D2B23A6-A7CB-4DC8-BFD4-663280750B3E}"
+          ccb="Clear on publish" />
+        <r
+          ds="{F6011607-5490-469A-B80C-9C4613410C9E}"
+          id="{F4476AAB-F2E0-4F7D-AE15-FB75897F3539}"
+          par=""
+          ph="main"
+          uid="{9CBD70B0-A1E7-4BB6-9A83-28903CCC9A0A}"
+          ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T052959Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

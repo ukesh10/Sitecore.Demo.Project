@@ -1,0 +1,17 @@
+﻿---
+ID: "4dfbfe77-74bf-448c-8a65-5e2525bea4c1"
+Parent: "49152ac9-535b-4bf9-a9f2-1523f33a1a6f"
+Template: "e28a1892-f628-4dcf-aced-6b2b56fe4f1e"
+Path: /sitecore/content/Gymster/Home/Pages/Testimonial
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230502T140024Z
+    - ID: "f22370fd-63f8-471f-beed-d0195fec2991"
+      Hint: Navigation Title
+      Value: Testimonial
